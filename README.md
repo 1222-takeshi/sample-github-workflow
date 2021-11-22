@@ -15,6 +15,7 @@ This is an action that does a spell check by referring to my public dictionary. 
 <https://github.com/1222-takeshi/sample_spell_dict>
 
 ## pre-commit
-pre-commitはcpplintやclang-formatなどを使用してコードのミス検知と修正をしてくれます。
+
+pre-commit は cpplint や clang-format などを使用してコードのミス検知と修正をしてくれます。
 
 The pre-commit will use cpplint, clang-format, etc. to detect and fix mistakes in your code.

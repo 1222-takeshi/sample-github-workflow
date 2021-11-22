@@ -13,3 +13,9 @@ We would appreciate it if you could copy and use it in each repository as needed
 This is an action that does a spell check by referring to my public dictionary. You can do the original spell check by referring to your own dictionary, so please change it accordingly.
 
 <https://github.com/1222-takeshi/sample_spell_dict>
+
+## pre-commit
+
+pre-commit は cpplint や clang-format などを使用してコードのミス検知と修正をしてくれます。
+
+The pre-commit will use cpplint, clang-format, etc. to detect and fix mistakes in your code.
